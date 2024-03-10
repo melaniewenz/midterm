@@ -1,0 +1,205 @@
+{
+    "user": 
+        {
+            "userName": "Jane Doe",
+            "email": "jdoe25@gmail.com",
+            "password": "jd1234",
+            "profilePictureURL": "./images/janeDoe.png",
+            "classes": [
+                {
+                    "className": "COM S 319",
+                    "classDescription": "Construction of User Interfaces",
+                    "classImgURL": "./images/cs319.png",
+                    "posts": [
+                        {
+                            "author": "John Doe",
+                            "profilePictureURL": "./images/johnDoe.png",
+                            "question": "How do I succeed in this class?",
+                            "responses": [
+                                {
+                                    "author": "John Johnson",
+                                    "profilePictureURL": "./images/johnDoe.png",
+                                    "answer": "Try your best!"
+                                },
+                                {
+                                    "author": "Rachel Adams",
+                                    "profilePictureURL": "./images/janeDoe.png",
+                                    "answer": "Ask lots of questions"
+                                }
+                            ]
+                        },
+                        {
+                            "author": "John Johnson",
+                            "profilePictureURL": "./images/johnJohnson.png",
+                            "question": "What does HTML Stand For?",
+                            "responses": []
+                        }
+                    ]
+                },
+                {
+                    "className": "COM S 309",
+                    "classDescription": "Intro to Software Development",
+                    "classImgURL": "./images/cs309.jpg",
+                    "posts": [
+                        {
+                            "author": "Julio Gonzalaz",
+                            "profilePictureURL": "./images/julioGonzalaz.png",
+                            "question": "Any good project recommendations",
+                            "responses": [
+                                {
+                                    "author": "Eugine Taylor",
+                                    "profilePictureURL": "./images/johnDoe.png",
+                                    "answer": "Our group is doing a scheduling app"
+                                },
+                                {
+                                    "author": "Quincy Harris",
+                                    "profilePictureURL": "./images/johnDoe.png",
+                                    "answer": "You should make a chess game!"
+                                },
+                                {
+                                    "author": "Isabelle Anderson",
+                                    "profilePictureURL": "./images/janeDoe.png",
+                                    "answer": "You should make a shopping app for sneakers"
+                                }
+                            ]
+                        },
+                        {
+                            "author": "Kyle Randall",
+                            "profilePictureURL": "./images/kyleRandall.png",
+                            "question": "What framework does the backend team work on?",
+                            "responses": []
+                        },
+                        {
+                            "author": "John Doe",
+                            "profilePictureURL": "./images/johnDoe.png",
+                            "question": "Why is my code not working!? Grrrrr",
+                            "responses": [
+                                {
+                                    "author": "Alex Nicholas",
+                                    "profilePictureURL": "./images/johnDoe.png",
+                                    "answer": "Idk bro, figure it out"
+                                },
+                                {
+                                    "author": "Ben Towle",
+                                    "profilePictureURL": "./images/johnDoe.png",
+                                    "answer": "Press Ctrl-Alt-Delete"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "className": "CPR E 381",
+                    "classDescription": "CPU Architecture",
+                    "classImgURL": "./images/cpre381.jpg",
+                    "posts": [
+                        {
+                            "author": "Sarah Smith",
+                            "profilePictureURL": "./images/sarahSmith.png",
+                            "question": "What are the key concepts in CPU Architecture?",
+                            "responses": []
+                        },
+                        {
+                            "author": "Emma White",
+                            "profilePictureURL": "./images/emmaWhite.png",
+                            "question": "Can you recommend any resources for studying CPU Architecture?",
+                            "responses": [
+                                {
+                                    "author": "Michael Johnson",
+                                    "profilePictureURL": "./images/johnDoe.png",
+                                    "answer": "Sure! You can check out books like \"Computer Organization and Design\" by David A. Patterson and John L. Hennessy."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "className": "ECON 101",
+                    "classDescription": "Intro to Microeconomics",
+                    "classImgURL": "./images/econ101.jpeg",
+                    "posts": [
+                        {
+                            "author": "Alice Green",
+                            "profilePictureURL": "./images/aliceGreen.png",
+                            "question": "What are the basic principles of microeconomics?",
+                            "responses": [
+                                {
+                                    "author": "Bob Wilson",
+                                    "profilePictureURL": "./images/johnDoe.png",
+                                    "answer": "Basic principles include supply and demand, elasticity, and consumer behavior."
+                                }
+                            ]
+                        },
+                        {
+                            "author": "Chris Evans",
+                            "profilePictureURL": "./images/chrisEvans.png",
+                            "question": "How does microeconomics differ from macroeconomics?",
+                            "responses": [
+                                {
+                                    "author": "Emily Thompson",
+                                    "profilePictureURL": "./images/janeDoe.png",
+                                    "answer": "Microeconomics focuses on individual markets and decision-making units, while macroeconomics deals with the economy as a whole."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "className": "PHYS 211",
+                    "classDescription": "Introduction to Physics",
+                    "classImgURL": "./images/phys211.jpeg",
+                    "posts": [
+                        {
+                            "author": "Amy Johnson",
+                            "profilePictureURL": "./images/amyJohnson.png",
+                            "question": "What are the fundamental principles of physics?",
+                            "responses": [
+                                {
+                                    "author": "Michael Brown",
+                                    "profilePictureURL": "./images/johnDoe.png",
+                                    "answer": "Fundamental principles include Newton's laws of motion, conservation of energy, and the theory of relativity."
+                                }
+                            ]
+                        },
+                        {
+                            "author": "David White",
+                            "profilePictureURL": "./images/davidWhite.png",
+                            "question": "How can I improve my understanding of physics concepts?",
+                            "responses": []
+                        }
+                    ]
+                },
+                {
+                    "className": "MATH 166",
+                    "classDescription": "Calculus I",
+                    "classImgURL": "./images/math166.jpeg",
+                    "posts": [
+                        {
+                            "author": "John Doe",
+                            "profilePictureURL": "./images/johnDoe.png",
+                            "question": "What are the main topics covered in Calculus I?",
+                            "responses": [
+                                {
+                                    "author": "Sarah Wilson",
+                                    "profilePictureURL": "./images/janeDoe.png",
+                                    "answer": "Main topics include limits, derivatives, and integrals."
+                                }
+                            ]
+                        },
+                        {
+                            "author": "Chris Evans",
+                            "profilePictureURL": "./images/chrisEvans.png",
+                            "question": "How can I prepare for the upcoming exam?",
+                            "responses": [
+                                {
+                                    "author": "Emma Thompson",
+                                    "profilePictureURL": "./images/janeDoe.png",
+                                    "answer": "You can prepare by reviewing lecture notes, working on practice problems, and attending review sessions."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+}
